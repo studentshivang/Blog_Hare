@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&display=swap');
+.navbar-brand{
+    transform: scale(1.21);
+    font-weight: 900;
+    font-family: 'DynaPuff', cursive;
+}

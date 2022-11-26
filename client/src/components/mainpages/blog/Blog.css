@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,300&family=Teko:wght@500&display=swap');
+.blogReal h1{
+    font-family: 'Teko', sans-serif;
+}
+
+.blogReal .para{
+    /* font-weight:700 ; */
+    /* font-size:21px ; */
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+/* .blogReal .Date{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+} */
